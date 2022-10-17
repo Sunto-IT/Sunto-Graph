@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Deploy
 ```http://localhost:63342/sunto-graphvis/build/manifest.json?_ijt=52ek86ctts9k5mlmvu3ellinu2```
 
-
+scp -r * 511984497.swh.strato-hosting.eu@ssh.strato.de:STRATO-apps/wordpress_01/app/govupnrw/
 
 ## Available Scripts
 

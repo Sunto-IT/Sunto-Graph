@@ -24,3 +24,11 @@ html, body {
 .menuBarButton:hover{
   color: #6BBDA3;
 }
+
+.legendIcon {
+  width: 40px;
+  height: 40px;
+  float: left;
+  margin-right: 10px
+
+}
