@@ -3,7 +3,7 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
 import logosuntoit from './logo_sunto-it.svg';
-import logo from './logo_bra.png';
+import logo from './logo_publicxinversity.png';
 
 import graph_download from './hierarchydata1.svg'
 import graph_file from './suntograph_bra.nt';

@@ -24,3 +24,5 @@ yarn-error.log*
 
 .idea
 public/icons
+/src/logo_publicxinversity.png
+
