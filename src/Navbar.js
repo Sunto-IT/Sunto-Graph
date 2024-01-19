@@ -9,7 +9,6 @@ import graph_download from './hierarchydata1.svg'
 import graph_file from './suntograph_bra.nt';
 import graph_png from './graph-full.png'
 
-
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {
     faProjectDiagram,
